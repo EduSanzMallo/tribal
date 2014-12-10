@@ -1,0 +1,19 @@
+Testsuite: tribal.ProjectServiceIntegrationSpec
+Tests run: 4, Failures: 0, Errors: 0, Time elapsed: 1,152 sec
+------------- Standard Output ---------------
+--Output from test saveProject method--
+--Output from test saveProject method - fails--
+--Output from test deleteProject method--
+--Output from test listProjects method--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from test saveProject method--
+--Output from test saveProject method - fails--
+--Output from test deleteProject method--
+--Output from test listProjects method--
+------------- ---------------- ---------------
+
+Testcase: test saveProject method took 0,806 sec
+Testcase: test saveProject method - fails took 0,237 sec
+Testcase: test deleteProject method took 0,059 sec
+Testcase: test listProjects method took 0,047 sec

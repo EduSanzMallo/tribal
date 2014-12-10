@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="Paulisssss" name="tribal.ProjectServiceIntegrationSpec" tests="4" time="1.152" timestamp="2014-12-10T13:36:30">
+  <properties />
+  <testcase classname="tribal.ProjectServiceIntegrationSpec" name="test saveProject method" time="0.806" />
+  <testcase classname="tribal.ProjectServiceIntegrationSpec" name="test saveProject method - fails" time="0.237" />
+  <testcase classname="tribal.ProjectServiceIntegrationSpec" name="test deleteProject method" time="0.059" />
+  <testcase classname="tribal.ProjectServiceIntegrationSpec" name="test listProjects method" time="0.047" />
+  <system-out><![CDATA[--Output from test saveProject method--
+--Output from test saveProject method - fails--
+--Output from test deleteProject method--
+--Output from test listProjects method--
+]]></system-out>
+  <system-err><![CDATA[--Output from test saveProject method--
+--Output from test saveProject method - fails--
+--Output from test deleteProject method--
+--Output from test listProjects method--
+]]></system-err>
+</testsuite>
